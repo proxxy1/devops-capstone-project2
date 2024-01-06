@@ -499,3 +499,4 @@
 [deploy : oc] accounts-744974b455-rl5f2   1/1     Running             0          5h41m
 [deploy : oc] accounts-7f7785dfc5-pxdkd   0/1     ContainerCreating   0          0s
 
+=====
